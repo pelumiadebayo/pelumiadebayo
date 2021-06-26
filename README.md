@@ -1,20 +1,21 @@
 ![Pink and Peach Technology LinkedIn Banner](https://user-images.githubusercontent.com/26180741/123519506-80920a80-d6a3-11eb-9218-04d9d2ce0e16.png)
 ### Hi there 👋 I am Pelumi Adebayo. I came from a finance background because I studied Finance as a discipline. I later transitioned into the tech industry as a software engineer. What led me into this path was because, I developed a passion for problem solving which later led to my first publication on LinkedIn titled Data Structure and Algorith Basic: A Simple Introduction to problem solving.
 🌱 I’m currently learning better and optimized way to solve problem and I share a bit of what i learn on my personal blog which you can find here pswith.me
+<hr/>
 
-How to reach me:
+<strong>How to reach me:</strong>
 
 📫 Email adepelumi1996@gmail.com
 
-💬 Twitter @_pelume
+💬 Twitter <a href="http://twitter.com/_pelume">@_pelume</a>
 
-💻 Blog pswith.me(http://pswith.me)
+💻 Blog <a href="http://pswith.me">pswith.me</a>
 
-📝 Dev.to sapphire1996(https://dev.to/sapphire1996)
+📝 Dev.to <a href="https://dev.to/sapphire1996">sapphire1996</a>
 
-💼 LinkedIn Adepelumi(https://www.linkedin.com/in/adepelumi/)
+💼 LinkedIn  <a href="https://www.linkedin.com/in/adepelumi/">Adepelumi</a>
 
-🌐 My Website pelumiadebayo.com(https://pelumiadebayo.com)
+🌐 My Website <a href="https://pelumiadebayo.com">pelumiadebayo.com</a>
 <!--
 **sapphire1996/sapphire1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

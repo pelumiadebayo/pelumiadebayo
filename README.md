@@ -12,7 +12,7 @@
 
 💻 Blog <a href="http://pswith.me">pswith.me</a>
 
-📝 Dev.to <a href="https://dev.to/sapphire1996">sapphire1996</a>
+📝 Dev.to <a href="https://dev.to/pelumiadebayo">pelumiadebayo</a>
 
 💼 LinkedIn  <a href="https://www.linkedin.com/in/adepelumi/">Adepelumi</a>
 

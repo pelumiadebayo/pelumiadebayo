@@ -1,7 +1,7 @@
 ![Github](https://user-images.githubusercontent.com/26180741/126623151-78307bcb-a4fb-4b06-af83-778fe3b0fa27.png)
 
-### Hi there 👋 I am Pelumi Adebayo. I came from a finance background because I studied Finance as a discipline. I later transitioned into the tech industry as a software engineer. What led me into this path was because, I developed a passion for problem solving which later led to my first publication on LinkedIn titled Data Structure and Algorith Basic: A Simple Introduction to problem solving.
-🌱 I’m currently learning better and optimized way to solve problem and I share a bit of what i learn on my personal blog which you can find <a href="http://pswith.me">here</a>
+### Hi there 👋 I am Pelumi Adebayo. I came from a finance background because I studied Finance as a discipline. I later transitioned into the tech industry as a software engineer. What led me into this path was because I developed a passion for problem-solving which later led to my first publication on LinkedIn titled Data Structure and Algorithm Basic: A Simple Introduction to problem-solving.
+🌱 I’m currently learning better and optimized ways to solve problems and I share a bit of what I learn on my personal blog which you can find <a href="http://pswith.me">here</a>
 <hr/>
 
 <strong>How to reach me:</strong>

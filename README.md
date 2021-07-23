@@ -4,9 +4,13 @@
 🌱 I’m currently learning better and optimized ways to solve problems and I share a bit of what I learn on my personal blog which you can find <a href="http://pswith.me">here</a>
 <hr/>
 
-<strong>How to reach me:</strong>
+<strong>Here is how to reach me:</strong>
 
-📫 Email adepelumi1996@gmail.com
+💼 LinkedIn  <a href="https://www.linkedin.com/in/adepelumi/">Adepelumi</a>
+
+🌐 My Website <a href="https://pelumiadebayo.com">pelumiadebayo.com</a>
+
+<!--📫 Email adepelumi1996@gmail.com-->
 
 💬 Twitter <a href="http://twitter.com/_pelume">@_pelume</a>
 
@@ -14,9 +18,8 @@
 
 📝 Dev.to <a href="https://dev.to/pelumiadebayo">pelumiadebayo</a>
 
-💼 LinkedIn  <a href="https://www.linkedin.com/in/adepelumi/">Adepelumi</a>
+- ⚡ Fun fact: I am a long life learner
 
-🌐 My Website <a href="https://pelumiadebayo.com">pelumiadebayo.com</a>
 <!--
 **sapphire1996/sapphire1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

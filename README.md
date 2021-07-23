@@ -18,7 +18,7 @@
 
 📝 Dev.to <a href="https://dev.to/pelumiadebayo">pelumiadebayo</a>
 
-- ⚡ Fun fact: I am a long life learner and I love love dark mode.
+- ⚡ Fun fact: I am a long-life learner and I love-love dark mode.
 
 <!--
 **sapphire1996/sapphire1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

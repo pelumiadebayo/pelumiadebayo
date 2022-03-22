@@ -2,6 +2,9 @@
 
 ### Hi there 👋 I am Pelumi Adebayo, a self-taught software developer with experience spanning the development and maintenance of software products. I have 3 years of experience building core web applications with C#. I came from a finance background because I studied Finance as a discipline. I later transitioned into the tech industry as a software engineer. What led me into this path was because I developed a passion for problem-solving which later led to starting my first publication on problem-solving titled Data Structure and Algorithm Basic: A Simple Introduction to problem-solving.
 🌱 I’m currently learning better and optimized ways to solve problems and I share a bit of what I learn on my personal blog which you can find <a href="http://pswith.me">here</a>
+
+I Consistently innovates to create value. I find opportunities where others see none: I turn ideas into
+projects and projects into serial success
 <hr/>
 
 <strong>Here is how to reach me:</strong>
@@ -19,6 +22,7 @@
 📝 Dev.to <a href="https://dev.to/pelumiadebayo">pelumiadebayo</a>
 
 - ⚡ Fun fact: I am a long-life learner and I love-love dark mode.
+
 
 <!--
 **sapphire1996/sapphire1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

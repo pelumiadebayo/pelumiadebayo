@@ -15,7 +15,7 @@ projects and projects into serial success
 
 <!--📫 Email adepelumi1996@gmail.com-->
 
-💬 Twitter <a href="http://twitter.com/_pelume">@_pelume</a>
+💬 Twitter <a href="http://twitter.com/techanova_">@techanova_</a>
 
 💻 Blog <a href="http://pswith.me">pswith.me</a>
 

@@ -9,7 +9,7 @@ projects and projects into serial success
 
 <strong>Here is how to reach me:</strong>
 
-💼 LinkedIn  <a href="https://www.linkedin.com/in/adepelumi/">Adepelumi</a>
+<!--💼 LinkedIn  <a href="https://www.linkedin.com/in/adepelumi/">Adepelumi</a>-->
 
 🌐 My Website <a href="https://pelumiadebayo.com">pelumiadebayo.com</a>
 
